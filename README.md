@@ -11,7 +11,9 @@ approaches, our method strategically preserves universal meme formats while repl
 culture-specific elements, maintaining humor and relatability. Through a comprehensive
 evaluation involving both human assessors and automated metrics, we demonstrate that
 prompt-engineered VLMs with optimized parameters performed well in cultural authentic-
-ity and intent preservation. Our contributions include: (1) a systematic framework for hy-
+ity and intent preservation. 
+
+Our contributions include: (1) a systematic framework for hy-
 brid meme transcreation, (2) bidirectional evaluation across four diverse cultural contexts,
 and (3) novel insights into the universal versus culture-specific expression patterns in mul-
 timodal humor.
