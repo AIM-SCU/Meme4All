@@ -4,7 +4,9 @@ models (VLMs), focusing on the preservation of communicative intent while adapti
 cul- tural references for target audiences. Our three-stage hybrid transcreation pipeline
 leverages a specialized VLM, LLaVA 1.6, for analysis and caption generation, in con-
 junction with the FLUX.1 Schnell model for culturally-adapted visual templates, to trans-
-form memes across Chinese and American cultural contexts. Unlike traditional translation
+form memes across Chinese and American cultural contexts.
+
+Unlike traditional translation
 approaches, our method strategically preserves universal meme formats while replacing
 culture-specific elements, maintaining humor and relatability. Through a comprehensive
 evaluation involving both human assessors and automated metrics, we demonstrate that
